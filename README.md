@@ -11,6 +11,7 @@ You now have access to the contents of the JAR files.
 
 ## Netbeans Setup:
 [**Windows, Linux, Mac  - Netbeans**](https://netbeans.org/)
+
 The FXCM-API-Offerings readme page points to **Netbeans** as an IDE to use with the **Java Trading Api**, but the FXCM-Java/Java-API-Example directory only contains a couple of Eclipse related files. This is how you can setup a Netbeans project to use the examples. There are two basic methods. You can either copy the files into a new Java Application project or you can clone FXCM-API-Offerings and tell Netbeans to create a Java Project with Existing Sources. Either way, we will setup a Library to reference the fxcm-api and fxmsg JAR files.
 
 ### FXCM Java API Library:
