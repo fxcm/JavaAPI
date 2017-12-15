@@ -3,7 +3,7 @@
 Java API, a wrapper SDK of FIX API, provides clients with a fully functioning programmable API into the FXCM trading platform, including streaming live price, get historical price and live trades. It is a scalable, light and robust which compatible on any Java-compliant operating system.
 
 ## How to access the JAVA JAR files:
-1) Click on the link below and download the [zip file]https://apiwiki.fxcorporate.com/api/java/trading_sdk.zip
+1) Click on the link below and download the [package at here](https://apiwiki.fxcorporate.com/api/java/trading_sdk.zip)
 2) Extract the fxcm-api folder to a location of your choice
 3) Rename fxcm-api.jar and fxmsg.jar to fxcm-api.zip and fxmsg.zip
 4) Extract these files to a location of your choice
