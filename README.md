@@ -1,6 +1,6 @@
 # JavaAPI
 
-Java API, a wrapper SDK of FIX API, provides clients with a fully functioning programmable API into the FXCM trading platform, including streaming live price, get historical price and live trades. It is a scalable, light and robust which compatible on any Java-compliant operating system.
+Java API, a wrapper SDK of FIX API, provides clients with a fully functioning programmable API into the FXCM trading platform, including streaming live price, get historical price and live trades. It is a scalable, light weight and robust API which compatible on any Java-compliant operating system.
 
 ## How to access the JAVA JAR files:
 1) Click on the link below and download the [package at here](https://apiwiki.fxcorporate.com/api/java/trading_sdk.zip)
