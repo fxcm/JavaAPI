@@ -13,3 +13,8 @@ Java trading SDK, a wrapper SDK of FIX API, provides clients with a fully functi
 3. Lean how to build and back test Breakout strategy using Java API at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/BreakOutStrategy_JavaAPI.zip">here</a>. 
 4. Lean how to build and back test Range Stochastic Strategy using Java API at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/RangeStochasticStrategy.zip">here</a>. 
 5. Lean how to build and back test Mean Reversion Strategy using Java API at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/MeanReversionStrategy.zip">here</a>. 
+
+## Note:
+o	This is for personal use and abides by our [EULA](https://www.fxcm.com/uk/forms/eula/)
+
+o	For more information, you may contact us: api@fxcm.com
