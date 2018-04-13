@@ -1,6 +1,6 @@
 # JavaAPI
 
-Java trading SDK, a wrapper SDK of FIX API, provides clients with a fully functioning programmable API into the FXCM FX trading platform. The API’s main features are streaming executable FX trading prices, the ability to open/close positions and entry orders as well as set/update/delete stops ands limits. The API Object model is based on the FIX specification for FX (http://fixprotocol.org/) and is very simple and easy to use.
+Java trading SDK, a wrapper SDK of FIX API, provides clients with a fully functioning programmable API into the FXCM FX trading platform. The API’s main features are streaming executable FX trading prices, the ability to open/close positions and entry orders as well as set/update/delete stops ands limits. The API Object model is based on the FIX specification for FX. It is scalable, light and robust and is compatible on any Java-compliant operating system.
 
 ## How to start:
 1) A FXCM account. You can apply for a demo account <a href="https://www.fxcm.com/uk/forex-trading-demo/">here</a>. 
