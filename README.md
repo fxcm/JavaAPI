@@ -20,7 +20,7 @@ To run the program, it needs to be passed as below arguments:
 		hostUrl: 
 		  	http://www.fxcorporate.com/Hosts.jsp 
 		test_command is one of the following:
-     			LISTEN:    Just listen for message, do not do anything
+     		LISTEN:    Just listen for message, do not do anything
 		 	CMO:       createMarketOrder (previously quoted)
 		 	SSLMO:     set Stop/Limit on an open position
 		 	USLMO:     update Stop/Limit price on a positon 
@@ -31,7 +31,9 @@ To run the program, it needs to be passed as below arguments:
 		 	DSLEO:     remove Stop/Limit on an entry order
 		 	DEO:       remove Entry Order
 		 	CLOSEMO:   close positon
-		 	UREO:      Update rate on an entry order			
+		 	UREO:      Update rate on an entry order
+			MDH:	   Retrieve Marke data history
+			RECONNECT: Reconnect the session
 
 ## How to login:
 
