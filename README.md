@@ -35,7 +35,7 @@ Java trading SDK, a wrapper SDK of FIX API, provides clients with a fully functi
 
     private void setup(IGenericMessageListener aGenericListener, boolean aPrintStatus) {
         try {
-	// step 1: get an instance of IGateway from the GatewayFactory
+		// step 1: get an instance of IGateway from the GatewayFactory
             if (mFxcmGateway == null) {
                 mFxcmGateway = GatewayFactory.createGateway();
             }
