@@ -7,7 +7,8 @@ Java trading SDK, a wrapper SDK of FIX API, provides clients with a fully functi
 2) Download the [package at here](https://apiwiki.fxcorporate.com/api/java/trading_sdk.zip)
 3) Documents are in the package at trading_sdk\fxcm-api\javadoc.
 4) Sample code at trading_sdk\fxcm-api\src\QATest.java
-5) How to run QATest example:  needs to be passed as the program arguments:  <test_command> <loginid> <loginpwd> <connection_name> <hostUrl>
+5) How to run QATest example:  
+To run the program, it needs to be passed as the program arguments:  <test_command> <loginid> <loginpwd> <connection_name> <hostUrl>
 	
   	
 		test_command is one of the following:
