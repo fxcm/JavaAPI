@@ -70,6 +70,16 @@ To run the program, it needs to be passed as below arguments:
         }
     }
 
+## How to get the rollover:
+
+With Java API you can get the current rollover for each symbol, it can be done with the functions getFXCMSymInterestBuy()and getFXCMSymInterestSell() from TradingSecurity Class,  for Long and Short positions.
+
+	For example:
+	getFXCMSymInterestBuy() = 0.12     you will get $0.12 for 10k
+	getFXCMSymInterestSell() = -0.39    you will pay $0.39  for 10k
+
+	the 10k in this example is the server default base unit size, it can be found with FXCMParamValue where FXCMParamName = “BASE_UNIT_SIZE”
+
 ## Real Case Study:
 1. How to build Rsi signal and back testing using FXCM Java API. <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/FXCM_Java_API_Tutorial_RsiSignal_Strategy.zip" target="_blank"> click here</a>
 2. Learn how to build and backtest CCI Oscillator strategy using Java API at <a href="https://apiwiki.fxcorporate.com/api/StrategyRealCaseStudy/JavaAPI/CCIOscillatorStrategy-2.zip">here</a>.
