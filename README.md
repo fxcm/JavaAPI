@@ -105,7 +105,7 @@ o	Our price streams are moving from http to https using TLSv1.2 since 6/16/2019,
 
 CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage.
 
-**73.62% of retail investor accounts lose money when trading CFDs with this provider.**
+**70.96% of retail investor accounts lose money when trading CFDs with this provider.**
 
 You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
 
