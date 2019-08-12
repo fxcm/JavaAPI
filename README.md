@@ -1,3 +1,9 @@
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage.
+
+**70.96% of retail investor accounts lose money when trading CFDs with this provider.**
+
+You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+
 # JavaAPI
 
 Java trading SDK, a wrapper SDK of FIX API, provides clients with a fully functioning programmable API into the FXCM FX trading platform. The API’s main features are streaming executable FX trading prices, the ability to open/close positions and entry orders as well as set/update/delete stops ands limits. The API Object model is based on the FIX specification for FX. It is scalable, light and robust and is compatible on any Java-compliant operating system.
@@ -102,12 +108,6 @@ o	Our price streams are moving from http to https using TLSv1.2 since 6/16/2019,
 	if you have any questions, please reach out to api@fxcm.com.
 
 ## Disclaimer:
-
-CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage.
-
-**70.96% of retail investor accounts lose money when trading CFDs with this provider.**
-
-You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
 
 High Risk Investment Notice: 
 
