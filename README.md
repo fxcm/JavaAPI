@@ -101,6 +101,13 @@ o	Our price streams are moving from http to https using TLSv1.2 since 6/16/2019,
 	The error you will get: ‘Can't connect to price server.’
 	if you have any questions, please reach out to api@fxcm.com.
 
+### Performance improvment release 
+We did some performance improvement and released to Demo. It should transparent to API users.
+
+However, you are welcome to test your current setting on Demo and contact api@fxcm.com if you experience any issues.
+
+If everything goes well, we plan to release to Production by the end of next week. Dec 17 2022.
+
 ## Disclaimer:
 
 High Risk Investment Notice: 
